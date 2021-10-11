@@ -1,1 +1,9 @@
+header{
+    background-image: url('../img/pattern.png');
+    background-color: cornflowerblue;
+    background-size: 400px;
+}
 
+.inevi{
+    background-color: yellow;
+}
