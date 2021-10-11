@@ -1,3 +1,9 @@
+body{
+    margin: auto;
+    margin-top: auto;
+    
+}
+
 header{
     background-image: url('../img/pattern.png');
     background-color: cornflowerblue;
@@ -6,4 +12,15 @@ header{
 
 .inevi{
     background-color: yellow;
+}
+
+.thead{
+    background-color: blue;
+    background-size: cover;
+}
+.blue{
+    background-color: cyan;
+}
+.white{
+    background-color: white;
 }
