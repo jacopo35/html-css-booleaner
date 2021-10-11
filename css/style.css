@@ -24,3 +24,14 @@ header{
 .white{
     background-color: white;
 }
+.loremm{
+     position: absolute;
+     top: 2px;
+     left: 10px;
+     color: white;
+}
+.prop{
+    margin: 3%;
+    position: relative;
+    
+}
